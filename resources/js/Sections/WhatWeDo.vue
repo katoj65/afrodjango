@@ -69,7 +69,7 @@ Artificial Intelligence
 <div class="container-fluid py-5">
 <div class="container">
 <div class="text-center wow fadeIn" data-wow-delay="0.1s">
-<h1 class="mb-5 fw-bold" style="font-size: 2.75rem; line-height: 1.2; letter-spacing: -0.02em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;"> An Initiative for Skills, Community, and Impact</h1>
+<h1 class="mb-5 fw-bold" style="line-height: 1.2; letter-spacing: -0.02em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;"> An Initiative for Skills, Community, and Impact</h1>
 </div>
 <div class="row g-4 justify-content-center">
 
@@ -82,14 +82,14 @@ Artificial Intelligence
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="text-white" fill="white" width="50" height="50">
     <path d="M392.8 65.2C375.8 60.3 358.1 70.2 353.2 87.2L225.2 535.2C220.3 552.2 230.2 569.9 247.2 574.8C264.2 579.7 281.9 569.8 286.8 552.8L414.8 104.8C419.7 87.8 409.8 70.1 392.8 65.2zM457.4 201.3C444.9 213.8 444.9 234.1 457.4 246.6L530.8 320L457.4 393.4C444.9 405.9 444.9 426.2 457.4 438.7C469.9 451.2 490.2 451.2 502.7 438.7L598.7 342.7C611.2 330.2 611.2 309.9 598.7 297.4L502.7 201.4C490.2 188.9 469.9 188.9 457.4 201.4zM182.7 201.3C170.2 188.8 149.9 188.8 137.4 201.3L41.4 297.3C28.9 309.8 28.9 330.1 41.4 342.6L137.4 438.6C149.9 451.1 170.2 451.1 182.7 438.6C195.2 426.1 195.2 405.8 182.7 393.3L109.3 320L182.6 246.6C195.1 234.1 195.1 213.8 182.6 201.3z"/></svg>
 </div>
-<h4 class="mb-0 fw-semibold" style="font-size: 1.25rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">
+<h4 class="mb-0 fw-semibold" style="letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">
 Digital Skills Training
 </h4>
 </div>
-<p class="mb-4" style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p class="mb-4" style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 We deliver hands-on training in Python, Artificial Intelligence, IoT, Web and Mobile Development, and essential digital skills, equipping learners with future ready capabilities.
 </p>
-<a class="btn btn-secondary px-3 fw-medium" href="" style="font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.02em;">Read More</a>
+
 </div>
 </div>
 
@@ -103,12 +103,12 @@ We deliver hands-on training in Python, Artificial Intelligence, IoT, Web and Mo
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="text-white" fill="white" width="50" height="50">
     <path d="M320 80C377.4 80 424 126.6 424 184C424 241.4 377.4 288 320 288C262.6 288 216 241.4 216 184C216 126.6 262.6 80 320 80zM96 152C135.8 152 168 184.2 168 224C168 263.8 135.8 296 96 296C56.2 296 24 263.8 24 224C24 184.2 56.2 152 96 152zM0 480C0 409.3 57.3 352 128 352C140.8 352 153.2 353.9 164.9 357.4C132 394.2 112 442.8 112 496L112 512C112 523.4 114.4 534.2 118.7 544L32 544C14.3 544 0 529.7 0 512L0 480zM521.3 544C525.6 534.2 528 523.4 528 512L528 496C528 442.8 508 394.2 475.1 357.4C486.8 353.9 499.2 352 512 352C582.7 352 640 409.3 640 480L640 512C640 529.7 625.7 544 608 544L521.3 544zM472 224C472 184.2 504.2 152 544 152C583.8 152 616 184.2 616 224C616 263.8 583.8 296 544 296C504.2 296 472 263.8 472 224zM160 496C160 407.6 231.6 336 320 336C408.4 336 480 407.6 480 496L480 512C480 529.7 465.7 544 448 544L192 544C174.3 544 160 529.7 160 512L160 496z"/></svg>
 </div>
-<h4 class="mb-0 fw-semibold" style="font-size: 1.25rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Community Building</h4>
+<h4 class="mb-0 fw-semibold" style="letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Community Building</h4>
 </div>
-<p class="mb-4" style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p class="mb-4" style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 Afrodjango builds and nurtures a strong pan-African community of developers, educators, and academicians through collaboration, mentorship, and shared learning.
 </p>
-<a class="btn btn-secondary px-3" href="">Read More</a>
+
 </div>
 </div>
 
@@ -121,13 +121,13 @@ Afrodjango builds and nurtures a strong pan-African community of developers, edu
 <div class="service-icon flex-shrink-0 bg-primary me-4">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="text-white" fill="white" width="50" height="50"><path d="M80 259.8L289.2 345.9C299 349.9 309.4 352 320 352C330.6 352 341 349.9 350.8 345.9L593.2 246.1C602.2 242.4 608 233.7 608 224C608 214.3 602.2 205.6 593.2 201.9L350.8 102.1C341 98.1 330.6 96 320 96C309.4 96 299 98.1 289.2 102.1L46.8 201.9C37.8 205.6 32 214.3 32 224L32 520C32 533.3 42.7 544 56 544C69.3 544 80 533.3 80 520L80 259.8zM128 331.5L128 448C128 501 214 544 320 544C426 544 512 501 512 448L512 331.4L369.1 390.3C353.5 396.7 336.9 400 320 400C303.1 400 286.5 396.7 270.9 390.3L128 331.4z"/></svg>
 </div>
-<h4 class="mb-0 fw-semibold" style="font-size: 1.25rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Education System Integration</h4>
+<h4 class="mb-0 fw-semibold" style="letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Education System Integration</h4>
 </div>
-<p class="mb-4" style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p class="mb-4" style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 We work to integrate Python and digital skills into education systems across primary, secondary, tertiary, technical institutions and universities throughout Africa.
 
 </p>
-<a class="btn btn-secondary px-3 fw-medium" href="" style="font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.02em;">Read More</a>
+
 </div>
 </div>
 
@@ -142,12 +142,12 @@ We work to integrate Python and digital skills into education systems across pri
 <div class="service-icon flex-shrink-0 bg-primary me-4">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="text-white" fill="white" width="50" height="50"><path d="M240 88C240 74.7 229.3 64 216 64C202.7 64 192 74.7 192 88L192 128C156.7 128 128 156.7 128 192L88 192C74.7 192 64 202.7 64 216C64 229.3 74.7 240 88 240L128 240L128 296L88 296C74.7 296 64 306.7 64 320C64 333.3 74.7 344 88 344L128 344L128 400L88 400C74.7 400 64 410.7 64 424C64 437.3 74.7 448 88 448L128 448C128 483.3 156.7 512 192 512L192 552C192 565.3 202.7 576 216 576C229.3 576 240 565.3 240 552L240 512L296 512L296 552C296 565.3 306.7 576 320 576C333.3 576 344 565.3 344 552L344 512L400 512L400 552C400 565.3 410.7 576 424 576C437.3 576 448 565.3 448 552L448 512C483.3 512 512 483.3 512 448L552 448C565.3 448 576 437.3 576 424C576 410.7 565.3 400 552 400L512 400L512 344L552 344C565.3 344 576 333.3 576 320C576 306.7 565.3 296 552 296L512 296L512 240L552 240C565.3 240 576 229.3 576 216C576 202.7 565.3 192 552 192L512 192C512 156.7 483.3 128 448 128L448 88C448 74.7 437.3 64 424 64C410.7 64 400 74.7 400 88L400 128L344 128L344 88C344 74.7 333.3 64 320 64C306.7 64 296 74.7 296 88L296 128L240 128L240 88zM224 192L416 192C433.7 192 448 206.3 448 224L448 416C448 433.7 433.7 448 416 448L224 448C206.3 448 192 433.7 192 416L192 224C192 206.3 206.3 192 224 192zM240 240L240 400L400 400L400 240L240 240z"/></svg>
 </div>
-<h4 class="mb-0 fw-semibold" style="font-size: 1.25rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Software Solutions for Education</h4>
+<h4 class="mb-0 fw-semibold" style="letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Software Solutions for Education</h4>
 </div>
-<p class="mb-4" style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p class="mb-4" style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 Afrodjango designs and develops software solutions that enhance teaching, learning, assessment, and digital school transformation.
 </p>
-<a class="btn btn-secondary px-3 fw-medium" href="" style="font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.02em;">Read More</a>
+
 </div>
 </div>
 <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.3s">
@@ -156,14 +156,14 @@ Afrodjango designs and develops software solutions that enhance teaching, learni
 <div class="service-icon flex-shrink-0 bg-primary me-4">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" fill="white" class="text-white" width="50" height="50"><path d="M300.9 117.2L184.3 246.8C179.7 251.9 179.9 259.8 184.8 264.7C215.3 295.2 264.8 295.2 295.3 264.7L327.1 232.9C331.3 228.7 336.6 226.4 342 226C348.8 225.4 355.8 227.7 361 232.9L537.6 408L608 352L608 64L496 128L472.2 112.1C456.4 101.6 437.9 96 418.9 96L348.5 96C347.4 96 346.2 96 345.1 96.1C328.2 97 312.3 104.6 300.9 117.2zM148.6 214.7L255.4 96L215.8 96C190.3 96 165.9 106.1 147.9 124.1L32 256L32 608L176 472L188.4 482.3C211.4 501.5 240.4 512 270.3 512L286 512L279 505C269.6 495.6 269.6 480.4 279 471.1C288.4 461.8 303.6 461.7 312.9 471.1L353.9 512.1L362.9 512.1C382 512.1 400.7 507.8 417.7 499.8L391 473C381.6 463.6 381.6 448.4 391 439.1C400.4 429.8 415.6 429.7 424.9 439.1L456.9 471.1L474.4 453.6C483.3 444.7 485.9 431.8 482 420.5L344.1 283.7L329.2 298.6C279.9 347.9 200.1 347.9 150.8 298.6C127.8 275.6 126.9 238.7 148.6 214.6z"/></svg>
 </div>
-<h4 class="mb-0 fw-semibold" style="font-size: 1.25rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">
+<h4 class="mb-0 fw-semibold" style="letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">
 Institutional Partnerships
 </h4>
 </div>
-<p class="mb-4" style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p class="mb-4" style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 We partner with academic institutions to deliver Python and related technology training tailored to learners, educators, and institutional needs.
 </p>
-<a class="btn btn-secondary px-3 fw-medium" href="" style="font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.02em;">Read More</a>
+
 </div>
 </div>
 <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.5s">
@@ -172,14 +172,14 @@ We partner with academic institutions to deliver Python and related technology t
 <div class="service-icon flex-shrink-0 bg-primary me-4">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" fill="white" class="text-white" width="50" height="50"><path d="M128 160C128 124.7 156.7 96 192 96L544 96C579.3 96 608 124.7 608 160L608 400L512 400L512 384C512 366.3 497.7 352 480 352L416 352C398.3 352 384 366.3 384 384L384 400L254.9 400C265.8 381.2 272 359.3 272 336C272 265.3 214.7 208 144 208C138.6 208 133.2 208.3 128 209L128 160zM333 512C327.9 487.8 316.7 465.9 300.9 448L608 448C608 483.3 579.3 512 544 512L333 512zM64 336C64 291.8 99.8 256 144 256C188.2 256 224 291.8 224 336C224 380.2 188.2 416 144 416C99.8 416 64 380.2 64 336zM0 544C0 491 43 448 96 448L192 448C245 448 288 491 288 544C288 561.7 273.7 576 256 576L32 576C14.3 576 0 561.7 0 544z"/></svg>
 </div>
-<h4 class="mb-0 fw-semibold" style="font-size: 1.25rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">
+<h4 class="mb-0 fw-semibold" style="letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">
 Training, Bootcamps and Mentorship
 </h4>
 </div>
-<p class="mb-4" style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p class="mb-4" style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 We organise structured training programs, intensive bootcamps, and mentorship initiatives to identify, train, and nurture Africa's next generation of tech talent.
 </p>
-<a class="btn btn-secondary px-3 fw-medium" href="" style="font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.02em;">Read More</a>
+
 </div>
 </div>
 </div>
@@ -198,11 +198,11 @@ We organise structured training programs, intensive bootcamps, and mentorship in
 <img class="img-fluid" src="../../image/img4.jpg" alt="" style="border-radius: 30px;">
 </div>
 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-<h1 class="mb-4 fw-bold" style="font-size: 2rem; line-height: 1.2; letter-spacing: -0.02em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Our Mission and Objectives</h1>
-<p class="mb-4" style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<h1 class="mb-4 fw-bold" style="line-height: 1.2; letter-spacing: -0.02em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Our Mission and Objectives</h1>
+<p class="mb-4" style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 Our mission is to equip learners across Africa with practical skills in Python and related technologies, while enhancing education systems through curriculum integration, community engagement, and hands-on digital training.
 </p>
-<p class="mb-4" style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p class="mb-4" style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 
 Afrodjango exists to bridge the gap between education and industry by making Python and digital skills accessible, relevant, and impactful at all levels of learning.
 <br/>
@@ -232,14 +232,16 @@ Afrodjango exists to bridge the gap between education and industry by making Pyt
 <div class="row gy-5">
 
 <div class="content col-xl-5 d-flex flex-column aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-<h3 class="fw-semibold" style="font-size: 2rem; line-height: 1.2; letter-spacing: -0.02em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Python & Open Source Technologies</h3>
-<p style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<h3 class="fw-semibold" style="line-height: 1.3; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;">Python & Open Technologies</h3>
+<p style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 Afrodjango advocates for the use of Python and open-source technologies as vital tools for education, innovation, and research, aligning with the principles of the Python Software Foundation and the global open-source community.
 </p>
-<p style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 We envision Africa where Python and digital skills are embedded in education systems, supported by strong academic communities, modern digital infrastructure, and inclusive access to technology education.
 </p>
-<p style="font-size: 1.1rem; line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p style="line-height: 1.6; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+
+<!-- Afrodjango enhances academic curricula by integrating Python and digital skills, strengthens educator capacity, and provides hands-on training through partnerships with schools and universities. Additionally, we build learning communities, develop digital education solutions, and increase access to quality digital learning across Africa. -->
 
 </p>
 </div>
@@ -252,10 +254,10 @@ We envision Africa where Python and digital skills are embedded in education sys
 <div class="row gy-4">
 
 <div class="col-md-6 icon-box position-relative">
-<h4 class="fw-semibold" style="font-size: 1.2rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;"><a href="" class="stretched-link text-decoration-none">
+<h4 class="fw-semibold"><a href="" class="stretched-link text-decoration-none">
 Impact-Driven by Design
 </a></h4>
-<p style="font-size: 1rem; line-height: 1.5; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p style="line-height: 1.5; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 
 Established in 2015, Afrodjango has built a strong learning community across 25+ academic institutions, empowering 35,000 learners to date, with a goal to train 1 million learners in the next five years.
 
@@ -263,29 +265,29 @@ Established in 2015, Afrodjango has built a strong learning community across 25+
 </div><!-- Icon-Box -->
 
 <div class="col-md-6 icon-box position-relative">
-<h4 class="fw-semibold" style="font-size: 1.2rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;"><a href="" class="stretched-link text-decoration-none">
+<h4 class="fw-semibold"><a href="" class="stretched-link text-decoration-none">
 Empowering Educators & Academicians
 </a></h4>
-<p style="font-size: 1rem; line-height: 1.5; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p style="line-height: 1.5; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 We support teachers and academicians with training, tools, and resources to effectively deliver Python and digital skills education at scale.
 </p>
 </div><!-- Icon-Box -->
 
 <div class="col-md-6 icon-box position-relative">
-<h4 class="fw-semibold" style="font-size: 1.2rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;"><a href="" class="stretched-link text-decoration-none">
+<h4 class="fw-semibold"><a href="" class="stretched-link text-decoration-none">
 Built on Python & Open Source Technologies
 </a></h4>
-<p style="font-size: 1rem; line-height: 1.5; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p style="line-height: 1.5; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 Afrodjango promotes Python and open-source technologies to foster inclusive learning, collaboration, and sustainable digital ecosystems aligned with global communities.
 
 </p>
 </div><!-- Icon-Box -->
 
 <div class="col-md-6 icon-box position-relative">
-<h4 class="fw-semibold" style="font-size: 1.2rem; letter-spacing: -0.01em; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;"><a href="" class="stretched-link text-decoration-none">
+<h4 class="fw-semibold"><a href="" class="stretched-link text-decoration-none">
 Scalable & Sustainable
 </a></h4>
-<p style="font-size: 1rem; line-height: 1.5; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
+<p style="line-height: 1.5; font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; color: #6c757d;">
 Our partnership-driven model leverages technology, community, and institutions to scale digital skills education across Africa sustainably.
 
 </p>
@@ -302,3 +304,8 @@ Our partnership-driven model leverages technology, community, and institutions t
 
 </div><!-- end of .container-->
 </template>
+<style scoped>
+.stretched-link{
+font-size:20px;
+}
+</style>
