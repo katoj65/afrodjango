@@ -206,7 +206,7 @@ Our mission is to equip learners across Africa with practical skills in Python a
 
 Afrodjango exists to bridge the gap between education and industry by making Python and digital skills accessible, relevant, and impactful at all levels of learning.
 <br/>
-We envision an Africa where Python and digital skills are embedded in education systems, supported by strong academic communities, modern digital infrastructure, and inclusive access to technology education.
+
 </p>
 
 </div>
@@ -232,37 +232,65 @@ We envision an Africa where Python and digital skills are embedded in education 
 <div class="row gy-5">
 
 <div class="content col-xl-5 d-flex flex-column aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-<h3>Voluptatem dignissimos provident quasi</h3>
+<h3>Promoting Python & Open Technologies</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+Afrodjango advocates for the use of Python and open-source technologies as vital tools for education, innovation, and research, aligning with the principles of the Python Software Foundation and the global open-source community.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+We envision Africa where Python and digital skills are embedded in education systems, supported by strong academic communities, modern digital infrastructure, and inclusive access to technology education.
 </p>
+<p>
 
+Afrodjango enhances academic curricula by integrating Python and digital skills, strengthens educator capacity, and provides hands-on training through partnerships with schools and universities. Additionally, we build learning communities, develop digital education solutions, and increase access to quality digital learning across Africa.
+
+</p>
 </div>
+
+
+
+
 
 <div class="col-xl-7 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
 <div class="row gy-4">
 
 <div class="col-md-6 icon-box position-relative">
-<h4><a href="" class="stretched-link">Corporis voluptates sit</a></h4>
-<p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+<h4><a href="" class="stretched-link">
+Impact-Driven by Design
+</a></h4>
+<p>
+
+Established in 2015, Afrodjango has built a strong learning community across 25+ academic institutions, empowering 35,000 learners to date, with a goal to train 1 million learners in the next five years.
+
+</p>
 </div><!-- Icon-Box -->
 
 <div class="col-md-6 icon-box position-relative">
-<h4><a href="" class="stretched-link">Ullamco laboris nisi</a></h4>
-<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+<h4><a href="" class="stretched-link">
+Empowering Educators & Academicians
+</a></h4>
+<p>
+We support teachers and academicians with training, tools, and resources to effectively deliver Python and digital skills education at scale.
+</p>
 </div><!-- Icon-Box -->
 
 <div class="col-md-6 icon-box position-relative">
-<h4><a href="" class="stretched-link">Labore consequatur</a></h4>
-<p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+<h4><a href="" class="stretched-link">
+Built on Python & Open Source Technologies
+</a></h4>
+<p>
+Afrodjango promotes Python and open-source technologies to foster inclusive learning, collaboration, and sustainable digital ecosystems aligned with global communities.
+
+</p>
 </div><!-- Icon-Box -->
 
 <div class="col-md-6 icon-box position-relative">
-<h4><a href="" class="stretched-link">Beatae veritatis</a></h4>
-<p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+<h4><a href="" class="stretched-link">
+Scalable & Sustainable
+</a></h4>
+<p>
+Our partnership-driven model leverages technology, community, and institutions to scale digital skills education across Africa sustainably.
+
+</p>
 </div><!-- Icon-Box -->
 
 </div>
